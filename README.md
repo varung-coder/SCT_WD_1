@@ -6,7 +6,7 @@ Welcome to the **SCT_WD_1** Responsive Landing Page! This project is a premium, 
 The website highlights a professional aesthetic with features such as glassmorphism, gradient text animations, scroll-reveal transitions, and dynamic hover effects.
 
 ## 🔗 Live Demo
-Experience the live website here: [**Luminar Live Demo**](https://varung-coder.github.io/SCT_WD_1/)
+Experience the live website here: https://varung-coder.github.io/SCT_WD_1/
 
 ## 🌟 Key Features
 - **Interactive Glassmorphism Navbar:** A transparent sticky header that elegantly blurs into a frosted-glass effect as you scroll down the page.
