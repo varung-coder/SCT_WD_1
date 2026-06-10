@@ -43,5 +43,5 @@ The design takes inspiration from high-end SaaS platforms and digital agencies. 
 ---
 
 ## AUTHOR
-#G VARUN#
+## G VARUN
 *Web Development Intern at Skill Craft Technology*
