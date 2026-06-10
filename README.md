@@ -1,4 +1,4 @@
-# SCT_WD_1 Responsive Landing Page
+# Luminar : A modern Responsive Landing Page
 
 ## Overview
 Welcome to the **SCT_WD_1** Responsive Landing Page! This project is a premium, modern, and highly interactive landing page built for a creative digital agency named **Luminar**. It is designed to be fully responsive across desktop, tablet, and mobile devices. 
